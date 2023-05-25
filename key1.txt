@@ -1,7 +1,5 @@
 [FIX]
 [START]
 [FIXQXQX]
-ZEYAD|0|9|0|4|1|9|8|0|3|A جهاد موقت
-ZEYAD|1|D|F|0|4|F|5|2|F|1 sajed 16/5
 ZY-D97FD4B-ALA m.khlid 1 week 24/5
 ZY-E976269-ALA cardc week 24/5
