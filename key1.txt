@@ -1,6 +1,7 @@
 [FIX]
 [START]
-[FIXQXQX
+[FIXQXQX]
+[ZEYAD_MAX]
 ZY-0E51BE2-ALA مروان اسبوعين ٢٥/٥
 ZY-DB91FEF-ALA ساجد اسبوع 25/5
 ZY-58E9853-ALA خيري اسبوع 25/5
