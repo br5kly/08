@@ -2,11 +2,9 @@
 [START]
 [FIXQXQX]
 [ZEYAD_MAX]
-ZY-0E51BE2-ALA مروان اسبوعين ٢٥/٥
-ZY-DB91FEF-ALA ساجد اسبوع 25/5
-ZY-58E9853-ALA خيري اسبوع 25/5
+
 ZEYAD|0|3|D|F|A|9|9|0|6|B ميسي ٢٨/٥
-ZEYAD|A|7|8|5|5|0|9|1|5|F موقت
+ZEYAD-7IV4J56 سند لسود
 ZEYAD|6|D|7|9|2|B|5|1|F|A ظافر شهر 30\5
 ZY-2256987-ALA 31/5 Mohamed
 2|3|9|5|1|u|0|_|a|3|6|3
