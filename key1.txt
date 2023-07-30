@@ -2,13 +2,7 @@
 [START]
 [FIXQXQX]
 [ZEYAD_MAX]
-[MARWAN2]
-[MARWAN] 1/6
-ZEYAD-8H2IE4J سند لسود
-MARWAN-W6PVHXC
 
 
-2|3|9|5|1|u|0|_|a|3|6|3
-aa
 
-ZY-6DC0144-ALA جهاد غرياني 2/6
+
